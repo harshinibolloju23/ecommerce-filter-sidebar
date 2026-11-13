@@ -1,0 +1,18 @@
+[
+{"id":1,"name":"Wireless Earbuds","category":"Electronics","price":1999,"rating":4.3},
+{"id":2,"name":"Smart Watch","category":"Electronics","price":3499,"rating":4.1},
+{"id":3,"name":"Bluetooth Speaker","category":"Electronics","price":2499,"rating":4.5},
+{"id":4,"name":"Gaming Mouse","category":"Electronics","price":899,"rating":3.9},
+{"id":5,"name":"Power Bank 20000mAh","category":"Electronics","price":1599,"rating":4.2},
+{"id":6,"name":"USB-C Cable","category":"Electronics","price":299,"rating":3.7},
+{"id":7,"name":"Cotton T-Shirt","category":"Apparel","price":499,"rating":3.8},
+{"id":8,"name":"Denim Jacket","category":"Apparel","price":2199,"rating":4.4},
+{"id":9,"name":"Hoodie","category":"Apparel","price":1299,"rating":4.0},
+{"id":10,"name":"Formal Shirt","category":"Apparel","price":999,"rating":3.5},
+{"id":11,"name":"Summer Dress","category":"Apparel","price":1499,"rating":4.6},
+{"id":12,"name":"Running Shoes","category":"Footwear","price":2999,"rating":4.5},
+{"id":13,"name":"Leather Sandals","category":"Footwear","price":799,"rating":3.6},
+{"id":14,"name":"Sneakers","category":"Footwear","price":1899,"rating":4.2},
+{"id":15,"name":"Formal Shoes","category":"Footwear","price":2499,"rating":3.9},
+{"id":16,"name":"Flip Flops","category":"Footwear","price":299,"rating":3.2}
+]
